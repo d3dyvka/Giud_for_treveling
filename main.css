@@ -1,0 +1,43 @@
+.inline-block{
+    display: inline-block;
+    margin: 12px;
+}
+.hotel{
+    display: inline-block;
+}
+.hotel img{
+    margin: 10px;
+    object-fit: cover;
+    width: 320px;
+    height: 380px;
+    border-radius: 12px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #FFFFFF;
+}
+.small_text{
+    font-size: 13px;
+    line-height: 19.5px;
+    color: #C7C7C7;
+    text-align-all: left;
+}
+.big_text{
+    font-size: 16px;
+    line-height: 24px;
+    color: #161414;
+    padding: unset;
+    text-align: left;
+}
+a{
+    margin-left: 999px;
+    display: inline-block;
+    text-decoration: none;
+    color: #5243C2;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px;
+    border-radius: 12px;
+    gap: 4px;
+    background: #F6F4FF;
+}
